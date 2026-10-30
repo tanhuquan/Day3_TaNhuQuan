@@ -1,11 +1,11 @@
 **day3 Ta Nhu Quan**
 
-**Index: **
+**Index:**
 <img width="942" height="451" alt="image" src="https://github.com/user-attachments/assets/7944a211-027f-469d-ab53-c677dca94b35" />
-**Edit: **
+**Edit:**
 <img width="947" height="578" alt="image" src="https://github.com/user-attachments/assets/09b4443e-857b-42fe-8a8d-94024381c89e" />
 
-**Sau edit: **
+**Sau edit:**
 <img width="1421" height="548" alt="image" src="https://github.com/user-attachments/assets/69fc7c14-20de-4b34-8c36-a4ab22fa9461" />
 
 **Create:**
